@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MongoDB.Entities;
 using SearchService.Models;
-using ZstdSharp.Unsafe;
 
 namespace SearchService;
 
